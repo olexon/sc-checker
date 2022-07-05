@@ -6,4 +6,5 @@ requests\
 datetime\
 json
 
+## Screenshots
 ![Showcase](https://github.com/olexon/sc-checker/blob/main/showcase/1.png)
