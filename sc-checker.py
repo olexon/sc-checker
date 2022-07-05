@@ -67,7 +67,7 @@ try:
         try:
             acc_created = get_info["response"]["players"][0]["timecreated"]
 
-            print("Account Creation Date:", datetime.datetime.fromtimestamp(acc_created).strftime("%d/%m/t%Y"))
+            print("Account Creation Date:", datetime.datetime.fromtimestamp(acc_created).strftime("%d/%m/%Y"))
         except Exception:
             print("Account Creation Date: Unknown")
 
