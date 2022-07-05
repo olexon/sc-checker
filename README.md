@@ -1,7 +1,7 @@
 # SC-CHECKER
-gives you info about a specific steamcommunity profile <br />
+gives you info about a specific steamcommunity profile\
 NOTE: steamcommunity api key is required!
 ## Required libraries
-Requests\
+requests\
 datetime\
-json\
+json
